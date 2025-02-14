@@ -1,4 +1,3 @@
-
 # Linguagem de Programação Web I
 
 Disciplina Linguagem de Programação Web I (PHP), nesta disciplina iremos trabalhar com PHP / HTML (disciplina Interface Homem Márquina) / Banco de Dados (disciplinas banco de dados II)
@@ -63,3 +62,8 @@ A disciplina será dividida em módulos, iremos trabalhar com pequenos blocos en
 
 ## Outros materiais e Calendário
 [Drive](https://drive.google.com/drive/folders/10wFvDmYppmB3wBXivf1Hgg_5dxaOgUMH?usp=sharing)
+
+
+## Aula 02
+- Data: 10/10/2023
+- Resumo: Introdução ao Apache, ISS, XAMPP, MySQL, PHP, Apache no XAMPP, WAMP, htdocs, servidor, httpd.conf, e configuração de portas.
