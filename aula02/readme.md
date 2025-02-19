@@ -38,3 +38,27 @@
 ## Porque devo colocar o arquivo principal como index, e como faço para alterar
 - **index**: O arquivo padrão que o servidor procura ao acessar um diretório.
 - Para alterar, modifique a linha `DirectoryIndex index.html` no `httpd.conf` para o nome do novo arquivo principal.
+
+## Portas
+- As portas são um conceito importante em redes de computadores. Elas são usadas para identificar aplicativos e serviços em um computador. Cada aplicativo ou serviço é atribuído a uma porta exclusiva. Quando um computador recebe uma solicitação de conexão, ele verifica a porta de destino da solicitação para determinar qual aplicativo ou serviço deve lidar com a solicitação. As portas são importantes porque permitem que vários aplicativos e serviços sejam executados em um único computador.
+- Para configurar o Apache para receber solicitações nas portas 80 e 8080, você precisará editar o arquivo `httpd.conf`:
+  ```
+  Listen 80 
+  Listen 8080
+
+  ServerName localhost:80
+  ServerName localhost:8080
+  ```
+
+## Virtual Host
+- Um **Virtual Host** é um recurso do servidor web Apache que permite que você hospede vários sites em um único servidor. Cada site é hospedado em um diretório diferente e pode ter seu próprio nome de domínio, endereço IP e configurações personalizadas. Isso é útil para desenvolvedores web que desejam testar seus sites localmente antes de implantá-los em um servidor remoto.
+- Para configurar um Virtual Host no Apache, você precisará editar o arquivo de configuração do Apache, que geralmente é encontrado na pasta de instalação do Apache. O arquivo de configuração é geralmente chamado de `httpd.conf`. Você precisará adicionar as seguintes linhas ao arquivo de configuração:
+  ```
+  <VirtualHost *:80>
+      DocumentRoot "c:/xampp/htdocs/seusite"
+  </VirtualHost>
+  
+   <VirtualHost *:8080>
+      DocumentRoot "c:/xampp/htdocs/outro_site"
+  </VirtualHost>
+  ```

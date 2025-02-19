@@ -67,3 +67,9 @@ A disciplina será dividida em módulos, iremos trabalhar com pequenos blocos en
 ## Aula 02
 - Data: 10/10/2023
 - Resumo: Introdução ao Apache, ISS, XAMPP, MySQL, PHP, Apache no XAMPP, WAMP, htdocs, servidor, httpd.conf, e configuração de portas.
+- [Link para a pasta da Aula 02](./aula02)
+
+## Aula 03
+- Data: 11/10/2023
+- Resumo: Exercícios sobre PHP, comunicação cliente-servidor, diferenças entre Front-End e Back-End, configuração de portas e diretórios virtuais no Apache.
+- [Link para a pasta da Aula 03](./aula03)
