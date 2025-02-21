@@ -73,3 +73,8 @@ A disciplina será dividida em módulos, iremos trabalhar com pequenos blocos en
 - Data: 19/02/2025
 - Resumo: Exercícios sobre PHP, comunicação cliente-servidor, diferenças entre Front-End e Back-End, configuração de portas e diretórios virtuais no Apache.
 - [Link para a pasta da Aula 03](./aula03)
+
+## Aula 04
+- Data: 21/02/2025
+- Resumo: Introdução ao PHP: arquivos, delimitação de código, separador de instruções, variáveis, comentários e tipos de variáveis.
+- [Link para a pasta da Aula 04](./aula04)
