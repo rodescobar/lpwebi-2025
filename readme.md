@@ -78,3 +78,8 @@ A disciplina será dividida em módulos, iremos trabalhar com pequenos blocos en
 - Data: 21/02/2025
 - Resumo: Introdução ao PHP: arquivos, delimitação de código, separador de instruções, variáveis, comentários e tipos de variáveis.
 - [Link para a pasta da Aula 04](./aula04)
+
+## Aula 05
+- Data: 26/02/2025
+- Resumo: Continuação sobre Arrays em PHP, tipos de arrays, manipulação de arrays, funções úteis para arrays.
+- [Link para a pasta da Aula 05](./aula05)
