@@ -83,3 +83,8 @@ A disciplina será dividida em módulos, iremos trabalhar com pequenos blocos en
 - Data: 26/02/2025
 - Resumo: Continuação sobre Arrays em PHP, tipos de arrays, manipulação de arrays, funções úteis para arrays.
 - [Link para a pasta da Aula 05](./aula05)
+
+## Aula 06
+- Data: 28/02/2025
+- Resumo: Exercícios sobre arrays e variáveis em PHP.
+- [Link para a pasta da Aula 06](./aula06)
