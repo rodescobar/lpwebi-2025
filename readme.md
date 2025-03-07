@@ -88,3 +88,8 @@ A disciplina será dividida em módulos, iremos trabalhar com pequenos blocos en
 - Data: 28/02/2025
 - Resumo: Exercícios sobre arrays e variáveis em PHP.
 - [Link para a pasta da Aula 06](./aula06)
+
+## Aula 07
+- Data: 05/03/2025
+- Resumo: Correção dos exercícios da Aula 06.
+- [Link para a pasta da Aula 07](./aula07)
