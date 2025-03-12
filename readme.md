@@ -93,3 +93,9 @@ A disciplina será dividida em módulos, iremos trabalhar com pequenos blocos en
 - Data: 05/03/2025
 - Resumo: Correção dos exercícios da Aula 06.
 - [Link para a pasta da Aula 07](./aula07)
+
+  
+## Aula 09
+- Data: 12/03/2025
+- Resumo: Exercicios entrega 14/03/2025
+- [Link para a pasta da Aula 09](./aula09.md)
