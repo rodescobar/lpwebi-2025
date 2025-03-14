@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Aula 10 - Formulários em HTML</title>
+</head>
+<body>
+    <h1>Formulários em HTML</h1>
+    <h2>Método GET</h2>
+    <form action="process_get.php" method="get">
+        <label for="name">Nome:</label>
+        <input type="text" id="name" name="name">
+        <input type="submit" value="Enviar">
+    </form>
+
+    <h2>Método POST</h2>
+    <form action="process_post.php" method="post">
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email">
+        <input type="submit" value="Enviar">
+    </form>
+</body>
+</html>

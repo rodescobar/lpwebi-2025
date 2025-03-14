@@ -63,39 +63,54 @@ A disciplina será dividida em módulos, iremos trabalhar com pequenos blocos en
 ## Outros materiais e Calendário
 [Drive](https://drive.google.com/drive/folders/10wFvDmYppmB3wBXivf1Hgg_5dxaOgUMH?usp=sharing)
 
+## Bilbiografia Básica
+**MILANI, André.** Construindo Aplicações Web com PHP e MySQL. 2ª ed. São Paulo: Novatec, 2016.
 
 ## Aula 02
 - Data: 14/02/2025
+- Cap. 01
 - Resumo: Introdução ao Apache, ISS, XAMPP, MySQL, PHP, Apache no XAMPP, WAMP, htdocs, servidor, httpd.conf, e configuração de portas.
 - [Link para a pasta da Aula 02](./aula02)
 
 ## Aula 03
 - Data: 19/02/2025
 - Resumo: Exercícios sobre PHP, comunicação cliente-servidor, diferenças entre Front-End e Back-End, configuração de portas e diretórios virtuais no Apache.
+- Cap. 01
 - [Link para a pasta da Aula 03](./aula03)
 
 ## Aula 04
 - Data: 21/02/2025
 - Resumo: Introdução ao PHP: arquivos, delimitação de código, separador de instruções, variáveis, comentários e tipos de variáveis.
+- Cap. 02, 03 e 04
 - [Link para a pasta da Aula 04](./aula04)
 
 ## Aula 05
 - Data: 26/02/2025
 - Resumo: Continuação sobre Arrays em PHP, tipos de arrays, manipulação de arrays, funções úteis para arrays.
+- Cap. 04
 - [Link para a pasta da Aula 05](./aula05)
 
 ## Aula 06
 - Data: 28/02/2025
 - Resumo: Exercícios sobre arrays e variáveis em PHP.
+- Cap. 02, 03 e 04
 - [Link para a pasta da Aula 06](./aula06)
 
 ## Aula 07
 - Data: 05/03/2025
 - Resumo: Correção dos exercícios da Aula 06.
+- Cap. 02, 03 e 04
 - [Link para a pasta da Aula 07](./aula07)
 
   
 ## Aula 09
 - Data: 12/03/2025
 - Resumo: Exercicios entrega 14/03/2025
+- Cap. 02, 03 e 04
 - [Link para a pasta da Aula 09](./aula09.md)
+
+## Aula 10
+- Data: 14/03/2025
+- Resumo: Formulários em HTML, métodos GET e POST, exemplos de envio de dados para uma página PHP e como o PHP processa esses envios.
+- Cap. 09
+- [Link para a pasta da Aula 10](./aula10)
