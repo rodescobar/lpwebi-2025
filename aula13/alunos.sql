@@ -1,0 +1,38 @@
+CREATE TABLE alunos (
+    ra INT PRIMARY KEY,
+    nome VARCHAR(100) NOT NULL,
+    data_nasc DATE NOT NULL,
+    curso VARCHAR(50) NOT NULL
+);
+
+INSERT INTO alunos (ra, nome, data_nasc, curso) VALUES
+(1, 'Aluno 1', '2000-01-01', 'Curso A'),
+(2, 'Aluno 2', '2000-02-01', 'Curso B'),
+(3, 'Aluno 3', '2000-03-01', 'Curso C'),
+(4, 'Aluno 4', '2000-04-01', 'Curso A'),
+(5, 'Aluno 5', '2000-05-01', 'Curso B'),
+(6, 'Aluno 6', '2000-06-01', 'Curso C'),
+(7, 'Aluno 7', '2000-07-01', 'Curso A'),
+(8, 'Aluno 8', '2000-08-01', 'Curso B'),
+(9, 'Aluno 9', '2000-09-01', 'Curso C'),
+(10, 'Aluno 10', '2000-10-01', 'Curso A'),
+(11, 'Aluno 11', '2000-11-01', 'Curso B'),
+(12, 'Aluno 12', '2000-12-01', 'Curso C'),
+(13, 'Aluno 13', '2001-01-01', 'Curso A'),
+(14, 'Aluno 14', '2001-02-01', 'Curso B'),
+(15, 'Aluno 15', '2001-03-01', 'Curso C'),
+(16, 'Aluno 16', '2001-04-01', 'Curso A'),
+(17, 'Aluno 17', '2001-05-01', 'Curso B'),
+(18, 'Aluno 18', '2001-06-01', 'Curso C'),
+(19, 'Aluno 19', '2001-07-01', 'Curso A'),
+(20, 'Aluno 20', '2001-08-01', 'Curso B'),
+(21, 'Aluno 21', '2001-09-01', 'Curso C'),
+(22, 'Aluno 22', '2001-10-01', 'Curso A'),
+(23, 'Aluno 23', '2001-11-01', 'Curso B'),
+(24, 'Aluno 24', '2001-12-01', 'Curso C'),
+(25, 'Aluno 25', '2002-01-01', 'Curso A'),
+(26, 'Aluno 26', '2002-02-01', 'Curso B'),
+(27, 'Aluno 27', '2002-03-01', 'Curso C'),
+(28, 'Aluno 28', '2002-04-01', 'Curso A'),
+(29, 'Aluno 29', '2002-05-01', 'Curso B'),
+(30, 'Aluno 30', '2002-06-01', 'Curso C');

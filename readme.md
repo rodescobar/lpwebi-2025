@@ -114,3 +114,16 @@ A disciplina será dividida em módulos, iremos trabalhar com pequenos blocos en
 - Resumo: Formulários em HTML, métodos GET e POST, exemplos de envio de dados para uma página PHP e como o PHP processa esses envios.
 - Cap. 09
 - [Link para a pasta da Aula 10](./aula10)
+
+## Aula 11
+- Data: 19/03/2025
+- Exercícios referentes a aula 10
+
+## Aula 12
+- Data: 21/03/2025
+- Correção de exercícios
+
+## Aula 13
+- Data: 26/03/2025
+- Resumo: Introdução à classe `mysqli`, conexão com o banco de dados, execução de consultas SELECT e INSERT, e manipulação de resultados com PHP.
+- [Link para a pasta da Aula 13](./aula13)
