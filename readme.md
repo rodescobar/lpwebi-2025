@@ -127,3 +127,9 @@ A disciplina será dividida em módulos, iremos trabalhar com pequenos blocos en
 - Data: 26/03/2025
 - Resumo: Introdução à classe `mysqli`, conexão com o banco de dados, execução de consultas SELECT e INSERT, e manipulação de resultados com PHP.
 - [Link para a pasta da Aula 13](./aula13)
+
+## Aula 14
+- Data: 28/03/2025
+- Exercício para Entrega
+- Resumo: Consulta de alunos com base em critérios oferecidos pelo usuário.
+- [Link para a pasta da Aula 14](./aula14)
