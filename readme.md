@@ -133,3 +133,11 @@ A disciplina será dividida em módulos, iremos trabalhar com pequenos blocos en
 - Exercício para Entrega
 - Resumo: Consulta de alunos com base em critérios oferecidos pelo usuário.
 - [Link para a pasta da Aula 14](./aula14)
+
+
+## Aula 15
+- Data: 02/04/2025
+- Correção Aula 14
+- Continuação de Aula 13 (Insert)
+- [Link para a pasta da Aula 14](./aula14)
+- [Link para a pasta da Aula 13](./aula13)
