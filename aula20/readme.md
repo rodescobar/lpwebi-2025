@@ -2,6 +2,7 @@
 
 ## Entrega
 - Seu projeto deverá estar salvo no GIT.
+- Em dupla
 - Envio do link do GIT via e-mail para rodrigo.noescobar@gmail.com
 - Data e hora para entrega **28/05/2025 às 19h**
     - **Entregas feitas após este horário e data serão canceladas**
