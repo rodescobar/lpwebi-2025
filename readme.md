@@ -141,3 +141,23 @@ A disciplina será dividida em módulos, iremos trabalhar com pequenos blocos en
 - Continuação de Aula 13 (Insert)
 - [Link para a pasta da Aula 14](./aula14)
 - [Link para a pasta da Aula 13](./aula13)
+
+## Aula 16
+- Data: 04/04/2025
+- Continuação Aula 15
+- Update
+
+## Aula 17 
+- Data: 09/04/2025
+- Exercício DELETE
+
+## Aula 18 - 19
+- Datas:  16 e 23/04/2025
+- Semana de avaliação
+
+## Aula 20
+- Data: 25/04/2025
+- Variáveis de Sessão em PHP
+- Capítulo: 12 
+- Páginas: 224 à 228
+- Material de apoio [DEVMEDIA](https://www.devmedia.com.br/criando-sessao-para-login-no-php/27347)
